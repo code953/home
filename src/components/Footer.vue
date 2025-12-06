@@ -23,8 +23,8 @@
         <!-- 站点备案 -->
         <span>
           &amp;
-          <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
-            {{ siteIcp }}
+          <a href="https://icp.gov.moe/?keyword=20250953" target="_blank">
+            萌ICP备20250953号
           </a>
         </span>
       </div>
