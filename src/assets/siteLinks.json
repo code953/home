@@ -1,27 +1,12 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.code953.top/"
+    "icon": "Book",
+    "name": "网址导航",
+    "link": "https://index.code953.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://drive.code953.top/"
-  },
-  {
-    "icon": "Blog",
-    "name": "aq的小灯塔",
-    "link": "https://aq.code953.top/"
-  },
-  {
-    "icon": "Blog",
-    "name": "HaKU of Coeus",
-    "link": "https://haku.code953.top/"
-  },
-  {
-    "icon": "Blog",
-    "name": "CQWDX的博客",
-    "link": "https://cqwdx.code953.top/"
+    "link": "https://oplist.code953.top/"
   }
 ]
